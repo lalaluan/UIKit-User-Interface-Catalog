@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Property List.plist
+   SlideMenuControllerSwift
+
+   Created by lalalu on 16/6/6.
+   Copyright (c) 2016年 Yuji Hato. All rights reserved.
+-->
+<plist version="1.0">
+    <array>
+    <string>迎六一晚会成功举办</string>
+    <string>期末考试通知</string>
+    <string>端午放假通知</string>
+    <string>校学生会招新</string>
+    <string>曹春老师当选十大最受欢迎老师</string>
+    <string>十大舞王比赛海选开始</string>
+    <string>疑是地上霜</string>
+    <string>衣带渐宽终不悔</string>
+    <string>为伊消得人憔悴</string>
+    <string>故国不堪回首明月中</string>
+    <string>人生若只如初见</string>
+    <string>衣带渐宽终不悔</string>
+    <string>为伊消得人憔悴</string>
+    <string>故国不堪回首明月中</string>
+    <string>人生若只如初见</string>
+</array>
+</plist>
